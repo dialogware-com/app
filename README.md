@@ -1,2 +1,1 @@
-# app
-app.dialogware.com
+# app.dialogware.com
