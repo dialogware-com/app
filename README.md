@@ -18,3 +18,8 @@ user/project/
    każdy plik inna zmienna
 
 żeby można było to przetwarzać również lokalnie w shell scrypt lub python
+
+
+## Przykłady
+
+[Przykładowe marketplace’y produktów cyfrowych i usług lokalnych](examples/marketplaces/index.html)
